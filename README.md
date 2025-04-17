@@ -198,52 +198,53 @@ newman run ARSW_LOAD-BALANCING_AZURE.postman_collection.json -e [ARSW_LOAD-BALAN
 
 ## IMAGENES
 ### 1.
-[](images/img1.png)
+![](images/img1.png)
 
 ### 2.
-[](images/img2.png)
+![](images/img2.png)
 
 ### 3.
-[](images/img3.png)
+![](images/img3.png)
 
 ### 4.
-[](images/img4.png)
+![](images/img4.png)
 
 ### 5.
-[](images/img5.png)
+![](images/img5.png)
 
 ### 6.
-[](images/img6.png)
+![](images/img6.png)
 
 ### 7.
-[](images/img7.png)
+![](images/img7.png)
 
 ### 8.
-[](images/img8.png)
+![](images/img8.png)
 
 ### 9.
-[](images/img9.png)
+![](images/img9.png)
 
 ### 10.
-[](images/img10.png)
+![](images/img10.png)
 
 ### 11.
-[](images/img11.png)
+![](images/img11.png)
 
 ### 12.
-[](images/img12.png)
+![](images/img12.png)
 
 ### 13.
-[](images/img13.png)
+![](images/img13.png)
 
 ### 14.
-[](images/img14.png)
+![](images/img14.png)
 
 ### 15.
-[](images/img15.png)
+![](images/img15.png)
 
 ### 16.
-[](images/img16.png)
+![](images/img16.png)
+
 
 
 ## PREGUNTAS 1 Y 2
@@ -391,5 +392,5 @@ Una IP *zone-redundant* está diseñada para ser accesible incluso si una o más
 El *Network Security Group (NSG)* actúa como un firewall que filtra el tráfico hacia y desde los recursos de Azure. Permite crear reglas de seguridad que controlan el acceso basado en el origen, destino, protocolo y puertos.
 
 #### Presente el Diagrama de Despliegue de la solución.
-[](images/img17.png)
+![](images/img17.png)
 
